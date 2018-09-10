@@ -1,1 +1,1 @@
-Not Defteri üzerinden ilk değişiklik!
+Visual Studio üzerinden ilk commit
