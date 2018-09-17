@@ -1,0 +1,44 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE PISI SYSTEM "http://www.pisilinux.org/projeler/pisi/pisi-spec.dtd">
+<PISI>
+    <Source>
+        <Name>lazarus</Name>
+        <Homepage>http://lazarus-ide.com</Homepage>
+        <Packager>
+            <Name>Sami BABAT</Name>
+            <Email>samibabat@gmail.com</Email>
+        </Packager>
+        <Summary>Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development (RAD) using the Free Pascal compiler.</Summary>
+        <Description>Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development (RAD) using the Free Pascal compiler.</Description>
+        <License>GPL</License>
+        <IsA>editor</IsA>
+        <IsA>app:gui</IsA>
+        <Archive sha1sum="8e28ee2831d399791c61bbfbf74c34a6c7a51f47">https://kent.dl.sourceforge.net/project/lazarus/Lazarus%20Linux%20x86_64%20RPM/Lazarus%201.8.4/lazarus-1.8.4-0.x86_64.rpm</Archive>
+        <BuildDependencies>
+            <Dependency>rpm2targz</Dependency>
+            <Dependency>tar</Dependency>
+			<Dependency>fpc</Dependency>
+			<Dependency>fpc-src</Dependency>
+        </BuildDependencies>
+    </Source>
+
+    <Package>
+        <Name>lazarus</Name>
+        <Files>
+            <Path fileType="executable">/usr/bin/</Path>
+			<Path fileType="library">/usr/lib/</Path>
+			<Path fileType="data">/usr/share/</Path>
+			<Path fileType="config">/etc/</Path>
+        </Files>
+    </Package>
+
+    <History>
+        <Update release="1">
+            <Date>2018-09-112</Date>
+            <Version>1.8.4</Version>
+            <Comment>Ilk sürüm</Comment>
+            <Name>Sami BABAT</Name>
+            <Email>sami.babat@gmail.com</Email>
+        </Update>
+    </History>	
+</PISI>
