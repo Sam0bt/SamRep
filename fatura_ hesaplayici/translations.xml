@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<PISI>
+    <Source>
+        <Name>faturahesaplayici</Name>
+        <Summary xml:lang="tr">Oğuzhan DUYAR'ın python ile yazılan basit bir Fatura hesaplama programı.</Summary>>
+        <Description xml:lang="tr">Oğuzhan DUYAR'ın python ile yazılan basit bir Fatura hesaplama programı.</Description>
+    </Source>
+</PISI>

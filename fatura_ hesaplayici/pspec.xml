@@ -7,8 +7,8 @@
             <Name>Sami BABAT</Name>
             <Email>sam0bt@pisilinux.org</Email>
         </Packager>
-        <Summary>Oğuzhan DUYAR tarafından python ile yazılan basit bir Fatura hesaplama programı.</Summary>
-        <Description>Oğuzhan DUYAR tarafından python ile yazılan basit bir Fatura hesaplama programı.</Description>
+        <Summary>A simple Invoice calculation program written by Oğuzhan DUYAR in python.</Summary>
+        <Description>A simple Invoice calculation program written by Oğuzhan DUYAR in python.</Description>
         <License>GNU</License>
         <Archive sha1sum="4543badbe9689e1cba31322ec75176404bc25dc9" type="binary">https://notabug.org/OguzhanDUYAR/My_Python3_Software/raw/master/Fatura_Hesaplayici/fatura_hesaplayici-1.0.deb</Archive>
       
