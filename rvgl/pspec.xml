@@ -32,8 +32,6 @@
         <Archive sha1sum="a9db07fdd41ae58e65583f10d5a4393b07b15234" type="zip" target="rvgl/">https://distribute.re-volt.io/packs/rvgl_linux.zip</Archive>
 
 
-
-
         <BuildDependencies>
             <Dependency>sdl2-image</Dependency>
             <Dependency>sdl2-image-devel</Dependency>
