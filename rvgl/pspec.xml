@@ -33,10 +33,13 @@
 
 
 
+    </Source>
 
-        <BuildDependencies>
-            <Dependency>sdl-image</Dependency>
-            <Dependency>sdl-image-devel</Dependency>
+    <Package>
+        <Name>rvgl</Name>
+        <Icon>rvgl</Icon>
+
+         <RuntimeDependencies>
             <Dependency>sdl2-image</Dependency>
             <Dependency>sdl2-image-devel</Dependency>
             <Dependency>fluidsynth</Dependency>
@@ -47,12 +50,8 @@
             <Dependency>enet-devel</Dependency>
             <Dependency>libunistring</Dependency>
             <Dependency>libunistring-devel</Dependency>
-        </BuildDependencies>
-    </Source>
+        </RuntimeDependencies>
 
-    <Package>
-        <Name>rvgl</Name>
-        <Icon>rvgl</Icon>
         <Files>
             <Path fileType="executable">/usr/bin</Path>
             <Path fileType="data">/usr/share/pixmaps</Path>
