@@ -45,6 +45,8 @@
             <Dependency>enet-devel</Dependency>
             <Dependency>libunistring</Dependency>
             <Dependency>libunistring-devel</Dependency>
+            <Dependency>sdl-image</Dependency>
+            <Dependency>sdl-image-devel</Dependency>
         </BuildDependencies>
     </Source>
 
