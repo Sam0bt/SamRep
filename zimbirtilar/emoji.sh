@@ -1,5 +1,6 @@
  #!/bin/bash
 
+[ $UID = 0 ] && { echo "Lütfen Root Kullanıcısı Dışında Başka Bir Kullanıcı Ile Scripti Çalıştırın. Kullanıcılarınız: $(ls /home)" ; exit 1 ; }
 
 set -e
 set -o pipefail
