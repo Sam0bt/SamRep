@@ -3,6 +3,8 @@
 https://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
 #EXTINF:-1 tvg-logo="https://nubar.tv/wp-content/uploads/2022/10/NSport2.jpg" group-title="KÜRTÇE",Nubar Sport TV
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KÜRTÇE",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://nubar.tv/wp-content/uploads/2021/07/cropped-Logo-Site-180x180.png" group-title="KÜRTÇE",Nubar TV
 http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nubar.tv/wp-content/uploads/2022/10/Nplus3.jpg" group-title="KÜRTÇE",Nubar Plus TV
