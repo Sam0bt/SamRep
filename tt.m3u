@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.welattv.net/files/welattv-logo-6_0.png?20260111" group-title="KÜRTÇE",Walat TV
 https://hlsplayer.net/embed?type=m3u8&src=https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kurdch.tv/wp-content/uploads/2020/06/Logoi-TV-XXXlarg-Recovered-e1591913845507.png" group-title="KÜRTÇE",Kurd TV
-https://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
 #EXTINF:-1 tvg-logo="https://nubar.tv/wp-content/uploads/2022/10/NSport2.jpg" group-title="KÜRTÇE",Nubar Sport TV
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KÜRTÇE",ZAROK TV
